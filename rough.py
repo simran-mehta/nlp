@@ -1,6 +1,7 @@
 print("simranmehta")
 
 print("simranme")
+<<<<<<< HEAD
 # Python3 Program for recursive binary search.
 
 # Returns index of x in arr if present, else -1
@@ -43,3 +44,8 @@ if result != -1:
 	print("Element is present at index % d" % result)
 else:
 	print("Element is not present in array")
+=======
+print("simranme")
+print("simranme")
+print("simranme")
+>>>>>>> 64089a3bdaed9c9014ca56f8e0debcca1492c14d
