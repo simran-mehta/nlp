@@ -45,7 +45,7 @@ def binarySearch(arr, l, r, x):
 		# Else the element can only be present
 		# in right subarray
 		else:
-			return binarySearch(arr, mid + 1, r, x)
+			return binarySearch(arr, mid + 1, r, x), "jfadjfhashf"
 
 	else:
 		# Element is not present in the array
@@ -80,10 +80,3 @@ else:
 print("simranme")
 print("simranme")
 print("simranme")
-
-print("simranmehta")
-
-print("simranme")
-# Python3 Program for recursive binary search.
-
-# Returns index of x in arr if present, else -1
