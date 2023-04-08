@@ -1,7 +1,27 @@
 print("simranmehta")
 
 print("simranme")
-<<<<<<< HEAD
+# Python3 Program for recursive binary search.
+
+# Returns index of x in arr if present, else -1
+
+print("simranmehta")
+
+print("simranme")
+# Python3 Program for recursive binary search.
+
+# Returns index of x in arr if present, else -1
+
+print("simranmehta")
+
+print("simranme")
+# Python3 Program for recursive binary search.
+
+# Returns index of x in arr if present, else -1
+
+print("simranmehta")
+
+print("simranme")
 # Python3 Program for recursive binary search.
 
 # Returns index of x in arr if present, else -1
@@ -17,7 +37,6 @@ def binarySearch(arr, l, r, x):
 		# If element is present at the middle itself
 		if arr[mid] == x:
 			return mid
-
 		# If element is smaller than mid, then it
 		# can only be present in left subarray
 		elif arr[mid] > x:
@@ -32,6 +51,12 @@ def binarySearch(arr, l, r, x):
 		# Element is not present in the array
 		return -1
 
+print("simranmehta")
+
+print("simranme")
+# Python3 Program for recursive binary search.
+
+# Returns index of x in arr if present, else -1
 
 # Driver Code
 arr = [2, 3, 4, 10, 40]
@@ -40,12 +65,25 @@ x = 10
 # Function call
 result = binarySearch(arr, 0, len(arr)-1, x)
 
+
+
+print("simranme")
+# Python3 ilkjlkj Program for recursive binary search.
+
+# Returns index of x in arr if present, else -1
+
+
 if result != -1:
 	print("Element is present at index % d" % result)
 else:
 	print("Element is not present in array")
-=======
 print("simranme")
 print("simranme")
 print("simranme")
->>>>>>> 64089a3bdaed9c9014ca56f8e0debcca1492c14d
+
+print("simranmehta")
+
+print("simranme")
+# Python3 Program for recursive binary search.
+
+# Returns index of x in arr if present, else -1
