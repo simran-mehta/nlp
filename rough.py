@@ -52,6 +52,9 @@ def binarySearch(arr, l, r, x):
 		return -1
 
 print("simranmehta")
+print("simranmehta")
+print("simranmehta")
+print("simranmehta")
 
 print("simranme")
 # Python3 Program for recursive binary search.
