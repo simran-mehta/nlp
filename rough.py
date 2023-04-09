@@ -45,11 +45,7 @@ def binarySearch(arr, l, r, x):
 		# Else the element can only be present
 		# in right subarray
 		else:
-<<<<<<< HEAD
 			return binarySearch(arr, mid + 1, r, x), "jfadjfhashf", "simran"
-=======
-			return binarySearch(arr, mid + 1, r, x), "jfadjfhashf", "kedeke", "lldsllsdl"
->>>>>>> 93c7bf07a28c85e08f826a6df9df8e72b01e7dd5
 
 	else:
 		# Element is not present in the array
