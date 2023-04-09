@@ -46,7 +46,6 @@ def binarySearch(arr, l, r, x):
 		# in right subarray
 		else:
 			return binarySearch(arr, mid + 1, r, x), "jfadjfhashf", "simran"
-            return binarySearch(arr, mid + 1, r, x), "jfadjfhashf", "simran"
 
 	else:
 		# Element is not present in the array
