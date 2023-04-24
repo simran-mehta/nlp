@@ -2,3 +2,5 @@ nlpnlp/
 data.xlsx
 adv.js
 rough.py
+*.csv
+*.json
